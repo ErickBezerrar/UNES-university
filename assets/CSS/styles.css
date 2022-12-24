@@ -1,3 +1,7 @@
 body{
     background-color: rgb(171, 197, 245);
 }
+
+#estado{
+    background-color: azure;
+}
